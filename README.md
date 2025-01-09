@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Movie+Horn&font=Fira%20SemiBold&center=true&width=480&height=45&color=fff68f&vCenter=true&pause=1000&size=40" /></a>
 </p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+My+GitHub+Profile;My+Name+Is+Vijay+Anand;I+Am+Nothing;Currently+Learning+Nothing;Thank+You!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+My+GitHub+Profile;My+Name+Is+Movie+Horn;I+Am+Developer;Currently+Learning+Coding;See+My+Profile;Thank+You!)
 
 ## Follow Me On
 
